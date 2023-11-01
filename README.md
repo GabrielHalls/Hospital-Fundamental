@@ -14,3 +14,5 @@ Importante: desse modelo já devemos gerar a etapa lógica da nossa modelagem!
 
 ![hospitalPart1](https://github.com/GabrielHalls/Hospital-SQL/assets/111321165/eccdcac1-7317-4258-bda9-a2bc318aeb3e)
 ![part2](https://github.com/GabrielHalls/Hospital-SQL/assets/111321165/a4d1df13-10ed-4a68-bdec-d5425853c2a8)
+![Captura de tela 2023-11-01 191013](https://github.com/GabrielHalls/Hospital-SQL/assets/111321165/05653e94-1dd8-4b47-a8f9-1a75dd9c0fe6)
+
