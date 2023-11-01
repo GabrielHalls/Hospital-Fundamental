@@ -1,4 +1,4 @@
 # Hospital-SQL
 
 ###
-![HospitalFundamental](https://github.com/GabrielHalls/Hospital-Fundamental/assets/111321165/4b9166be-bb7c-4200-9e3d-e31df6c3c654)
+![FundamentalHospital](https://github.com/GabrielHalls/Hospital-Fundamental/assets/111321165/67b4b1d7-770d-46b1-ae1a-de697e97c6e0)
