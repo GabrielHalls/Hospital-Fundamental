@@ -9,8 +9,8 @@ CREATE TABLE paciente (
 );
 
 CREATE TABLE consulta (
-  date int,
-  hora int,
+  data_consulta date,
+  hora timestamp,
   medico_responsavel varchar(500),
   paciente varchar(500),
   valor_da_consulta float,
@@ -30,9 +30,9 @@ CREATE TABLE convenio (
 
 CREATE TABLE internacao (
   id serial,
-  data_de_entrada date,
-  data_prev_alta date,
-  data_alta date,
+  data_de_entrada datetime,
+  data_prev_alta datetime,
+  data_alta datetime,
   procedimento nvarchar(100)
 );
 
@@ -54,7 +54,7 @@ CREATE TABLE enfermeiro (
   id serial,
   nome varchar(500),
   cpf char(11),
- corem int (11)
+  cre int (11)
 );
 
 
